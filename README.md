@@ -33,5 +33,8 @@ no siempre son enteros.
 
 Descripción de las herramientas utilizadas:
 Python: Lenguaje base de nuestro código.
+Matplotlib: Libreria diseñada para crear gráficos.
+Numpy: Libreria usada para hacer cálculos matemáticos
+Tkinter: Libreria utilizada para crear la interfaz de usuario.
 PyGame: Libreria diseñada para agregarimagenes (o Sprites) a una surface (Superficie)
 GitHub: Repositorio para compartir y mantener al dia a todos los colaboradores del proyecto.

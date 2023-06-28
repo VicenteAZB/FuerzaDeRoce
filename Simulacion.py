@@ -87,8 +87,3 @@ while True:
     # Actualizacion de la ventana
     pygame.display.flip()
     clock.tick(60)
-
-
-
-
-
